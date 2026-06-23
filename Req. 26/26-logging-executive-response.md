@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 26 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing currently generates logs for application errors, sensitive-access events, and auditable business transactions through standard application logging, a dedicated security log channel, and model-level audit trails.
 

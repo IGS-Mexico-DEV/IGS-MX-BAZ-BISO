@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 22 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing currently implements centralized technical controls for user and access administration, including controlled provisioning, disabled self-registration, explicit role assignment, and runtime RBAC enforcement.
 

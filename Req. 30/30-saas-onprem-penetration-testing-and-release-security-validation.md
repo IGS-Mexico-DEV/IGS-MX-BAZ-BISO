@@ -4,7 +4,7 @@
 
 This document records the currently verifiable evidence related to penetration testing, vulnerability scanning, and security validation in the release process of the IGS Billing application.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

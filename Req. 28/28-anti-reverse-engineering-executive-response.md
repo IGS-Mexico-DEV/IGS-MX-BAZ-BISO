@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 28 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 For a Laravel application, the anti-reverse-engineering control is addressed primarily by preventing unauthorized access to the source code and protecting the deployment environment, rather than by distributing obfuscated binaries.
 

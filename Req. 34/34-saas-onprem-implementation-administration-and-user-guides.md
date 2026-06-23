@@ -4,7 +4,7 @@
 
 This document records the currently available evidence that IGS Billing provides documentation and operational guidance for implementation, administration, and use of the application.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

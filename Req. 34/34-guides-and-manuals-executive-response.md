@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 34 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing provides implementation, administration, and usage documentation appropriate to its managed-service model. The solution is hosted in IGS infrastructure and made available to GS via web access protected by VPN, controlled URL exposure, and IP allowlisting.
 

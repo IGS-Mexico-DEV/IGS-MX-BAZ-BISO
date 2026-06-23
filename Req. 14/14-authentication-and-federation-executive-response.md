@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 14 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing currently implements user authentication through Laravel web sessions, Laravel Sanctum API tokens, email verification, role-based access control, and OTP-based MFA for privileged users.
 

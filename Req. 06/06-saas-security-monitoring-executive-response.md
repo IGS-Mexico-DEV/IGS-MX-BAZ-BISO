@@ -1,6 +1,6 @@
 # SaaS Point 6 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing currently implements monitoring and traceability controls at the application layer, including authenticated health checks for critical components, a dedicated security logging channel, auditing over sensitive models, and production observability through Laravel Nightwatch.
 

@@ -4,7 +4,7 @@
 
 This annex summarizes the evidence currently available for user authentication and identifies the missing implementation evidence required to satisfy the federation portion of the requirement.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Currently Available Authentication Evidence
 

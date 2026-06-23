@@ -4,7 +4,7 @@
 
 This document records the current user authentication methods and access control evidence available in the IGS Billing project, with specific attention to the requirement for federation-based access control through SAML 2.0 and OAuth 2.0.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

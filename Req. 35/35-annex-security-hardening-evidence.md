@@ -4,7 +4,7 @@
 
 This annex summarizes the evidence that security configuration and hardening guides exist and are applied in IGS Billing.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Available Evidence
 

@@ -4,7 +4,7 @@
 
 This document provides the current policies, procedures, and technical controls used to monitor attacks, malware, and anomalous behavior across the network, infrastructure, and application layers for the IGS Billing project.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

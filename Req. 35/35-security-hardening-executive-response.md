@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 35 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing maintains a formal security hardening guide and can provide it for verification. The guide covers secure configuration for transport security, HTTP security headers, CORS, secrets management, WAF considerations, and deployment verification.
 

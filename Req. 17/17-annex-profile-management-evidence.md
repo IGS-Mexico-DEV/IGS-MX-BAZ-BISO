@@ -4,7 +4,7 @@
 
 This annex summarizes the evidence currently available for profile management and identifies the missing evidence needed to fully support an ABC profile-management requirement.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Currently Available Evidence
 

@@ -4,7 +4,7 @@
 
 This annex summarizes the evidence currently available for centralized user and access administration and identifies the additional evidence required to prove handover to CyAAL.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Currently Available Technical Evidence
 

@@ -4,7 +4,7 @@
 
 This document records the current evidence available in the IGS Billing project regarding user and access administration, with specific attention to the requirement that administration of users and access must be delivered to CyAAL, the BAZ identity management area.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

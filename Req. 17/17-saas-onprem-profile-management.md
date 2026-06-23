@@ -4,7 +4,7 @@
 
 This document records the current evidence available in the IGS Billing project regarding profile management, role-based access control, and the management of user access profiles.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

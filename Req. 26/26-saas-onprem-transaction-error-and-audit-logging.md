@@ -4,7 +4,7 @@
 
 This document records the current evidence available in the IGS Billing project regarding application logging, transaction traceability, error recording, and forensic support.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 30 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing maintains a formal security-testing policy in its SDLC, including penetration testing, pentester approval, vulnerability assessment, and quarterly external pentester participation. The release and maintenance process is supported by recurring security scans in CI/CD and recent scan evidence, including 2026-05-15 results showing no security advisories in `composer audit` and 0 vulnerabilities in `npm audit`.
 

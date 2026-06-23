@@ -4,7 +4,7 @@
 
 This annex summarizes the evidence currently available for transaction logging, error logging, and forensic traceability.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Currently Available Logging Evidence
 

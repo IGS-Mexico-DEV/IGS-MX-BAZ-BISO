@@ -4,7 +4,7 @@
 
 This document records the technical and operational evidence used to address the reverse-engineering control for the IGS Billing application, considering the nature of a Laravel/PHP server-side stack.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 

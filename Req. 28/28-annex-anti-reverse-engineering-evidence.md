@@ -4,7 +4,7 @@
 
 This annex summarizes the evidence supporting the anti-reverse-engineering control for a Laravel/PHP application, where the relevant safeguards are source-code protection, controlled deployment, hardening, and reduced client-side logic exposure.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Available Evidence
 

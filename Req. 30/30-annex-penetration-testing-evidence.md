@@ -4,7 +4,7 @@
 
 This annex summarizes the evidence currently available for penetration-testing policy, recent security-scan execution, and the current evidence gap for a recent pentest report.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Available Evidence
 

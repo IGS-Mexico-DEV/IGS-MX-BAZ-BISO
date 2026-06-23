@@ -4,7 +4,7 @@
 
 This annex defines the additional evidence that should be attached to complete SaaS Point 6 regarding monitoring, incidents, and alerting.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Situation
 

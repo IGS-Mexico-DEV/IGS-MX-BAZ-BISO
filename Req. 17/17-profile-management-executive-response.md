@@ -1,6 +1,6 @@
 # SaaS / On-Prem Point 17 - Executive Response
 
-This response should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This response should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 IGS Billing currently implements profile and permission management through role-based access control, authoritative role definitions, provisioning-time role assignment, and runtime permission enforcement.
 

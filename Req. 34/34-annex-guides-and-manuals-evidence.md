@@ -4,7 +4,7 @@
 
 This annex summarizes the documentation currently available for implementation, administration, and use of IGS Billing.
 
-This annex should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This annex should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Available Documentation
 

@@ -4,7 +4,7 @@
 
 This document records the current evidence that IGS Billing maintains security hardening guides, applies them, and can provide them for verification.
 
-This point should be interpreted together with [01-assessment-context.md](./01-assessment-context.md).
+This point should be interpreted together with [01-assessment-context.md](../01-assessment-context.md).
 
 ## 2. Current Compliance Position
 
